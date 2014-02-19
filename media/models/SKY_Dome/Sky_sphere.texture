@@ -1,0 +1,5 @@
+{
+    name= sky_gradient
+    file= abstract::sky_gradient.png
+  mipmap= true
+}

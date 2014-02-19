@@ -1,0 +1,25 @@
+{
+    name= bio_organic_300b_d
+    file= abstract::bio_organic_300b_d.tga
+  mipmap= true
+}
+{
+    name= bio_organic_300b_n
+    file= abstract::bio_organic_300b_n.tga
+  mipmap= true
+}
+{
+    name= bio_organic_300b_s
+    file= abstract::bio_organic_300b_s.tga
+  mipmap= true
+}
+{
+    name= f3d_test_lightmap
+    file= abstract::f3d_test_lightmap.tga
+  mipmap= true
+}
+{
+    name= bio_organic_300b_sg
+    file= abstract::bio_organic_300b_sg.tga
+  mipmap= true
+}

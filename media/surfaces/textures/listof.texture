@@ -1,0 +1,50 @@
+{
+    name= text_a
+    file= abstract::text_a.png
+  mipmap= true
+}
+{
+    name= text_b
+    file= abstract::text_b.png
+  mipmap= true
+}
+{
+    name= text_c
+    file= abstract::text_c.png
+  mipmap= true
+}
+{
+    name= text_d
+    file= abstract::text_d.png
+  mipmap= true
+}
+{
+    name= test_icon
+    file= abstract::test_icon.png
+  mipmap= true
+}
+{
+    name= courier_new_8_bold
+    file= abstract::courier_new_8_bold.png
+  mipmap= true
+}
+{
+    name= courier_new_8_normal
+    file= abstract::courier_new_8_normal.png
+  mipmap= true
+}
+{
+    name= tahoma_8_bold
+    file= abstract::tahoma_8_bold.png
+  mipmap= true
+}
+{
+    name= tahoma_8_normal
+    file= abstract::tahoma_8_normal.png
+  mipmap= true
+}
+{
+    name= bump
+    file= abstract::bump.png
+  mipmap= true
+}

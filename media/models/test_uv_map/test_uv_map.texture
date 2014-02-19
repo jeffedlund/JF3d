@@ -1,0 +1,5 @@
+{
+    name= UV_MAP
+    file= abstract::UV_MAP.png
+  mipmap= true
+}

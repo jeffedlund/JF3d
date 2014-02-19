@@ -1,0 +1,5 @@
+{
+    name= env_map2
+    file= abstract::ENV_map2.png
+  mipmap= true
+}			

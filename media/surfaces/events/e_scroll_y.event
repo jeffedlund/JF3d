@@ -1,0 +1,15 @@
+[MATERIAL_EVENTS]
+{
+      name = e_scroll_y
+  position = 0 , 0
+     scale = 1 , 1
+    scroll = 0 , 0.1
+     angle = 0
+    rotate = 0
+ depthmask = true
+ alphamask = false
+alphablend = false
+ blend_src = GL_ONE
+ blend_dst = GL_ONE
+   uv_mode = UV_MODE_UV_MAP
+}

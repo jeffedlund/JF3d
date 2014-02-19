@@ -1,0 +1,22 @@
+[MATERIALS]
+{
+         type = MAT_TEXTURE
+         name = MATuvmap
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+ vertex_color = false
+    texture_0 = UV_MAP
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = none
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = false
+  faceculling = true
+}

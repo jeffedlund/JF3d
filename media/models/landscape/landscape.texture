@@ -1,0 +1,5 @@
+{
+    name= landscape
+    file= abstract::land_color.png
+  mipmap= true
+}

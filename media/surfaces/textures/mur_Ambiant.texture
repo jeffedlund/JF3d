@@ -1,0 +1,5 @@
+{
+    name= mur_Ambiant
+    file= abstract::mur_Ambiant.bmp
+  mipmap= true
+}			

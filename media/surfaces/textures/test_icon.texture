@@ -1,0 +1,5 @@
+{
+    name= test_icon
+    file= abstract::test_icon.png
+  mipmap= true
+}

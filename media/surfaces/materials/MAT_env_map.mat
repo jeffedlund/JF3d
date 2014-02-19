@@ -1,0 +1,21 @@
+[MATERIALS]
+{
+         type = MAT_TEXTURE
+         name = MAT_env_map
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+    texture_0 = F3D_DUMMY
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = e_sphere_map
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = false
+  faceculling = true
+}

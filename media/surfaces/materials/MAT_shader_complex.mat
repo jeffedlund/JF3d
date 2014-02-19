@@ -1,0 +1,22 @@
+[MATERIALS]
+{
+         type = MAT_SHADER
+         name = MAT_shader_complex
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 1,1,1,1
+    shinisess = 100
+    texture_0 = bio_organic_300b_d
+    texture_1 = bio_organic_300b_n
+    texture_2 = bio_organic_300b_sg
+    texture_3 = f3d_test_lightmap
+      event_0 = none
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = false
+  faceculling = true
+       shader = COMPLEX
+}

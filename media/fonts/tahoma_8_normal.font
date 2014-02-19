@@ -1,0 +1,6 @@
+[FONT]
+{
+	    name = tahoma_8n
+	material = MAT_tahoma_8_normal
+	 kerning = abstract::tahoma_8_normal.ini
+}

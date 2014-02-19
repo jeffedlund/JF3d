@@ -1,0 +1,1 @@
+"c:\Program Files (x86)\Java\jre\bin\java" -jar jops-editor-0.51.002.jar

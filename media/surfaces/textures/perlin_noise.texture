@@ -1,0 +1,5 @@
+{
+    name= perlin_noise
+    file= abstract::perlin_noise.jpg
+  mipmap= true
+}			

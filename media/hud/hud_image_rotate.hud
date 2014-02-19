@@ -1,0 +1,19 @@
+{
+    type         = HUD_IMAGE
+    name         = image_01
+    texture_name = test_icon
+    size         = 128,128
+    scale        = 1,1
+    origin       = 0.5,0.5
+    offset       = 0,0
+    angle        = 0
+    color        = 1,1,1,1
+    blend        = true
+    clamp        = false
+    scissor      = false
+    autosize     = false
+    scroll       = 0,0
+    rotate       = 1
+    shape_angle  = 0
+    shape_origin = 0,0
+}

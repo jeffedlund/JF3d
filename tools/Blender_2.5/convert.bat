@@ -1,0 +1,1 @@
+e:\software\blender-2.54-beta-windows32\blender.exe A3DA_exporter.blend %1

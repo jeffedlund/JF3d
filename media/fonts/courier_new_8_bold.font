@@ -1,0 +1,6 @@
+[FONT]
+{
+	    name = courier_new_8b
+	material = MAT_courier_new_8_bold
+	 kerning = abstract::courier_new_8_bold.ini
+}

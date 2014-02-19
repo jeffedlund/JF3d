@@ -1,0 +1,20 @@
+{
+    name= Beam_1
+    file= abstract::Beam_1.tga
+  mipmap= true
+}
+{
+    name= plasma
+    file= abstract::plasma.tga
+  mipmap= true
+}
+{
+    name= plasmalight
+    file= abstract::plasmalight.tga
+  mipmap= true
+}
+{
+    name= spark_white
+    file= abstract::spark_white.tga
+  mipmap= true
+}

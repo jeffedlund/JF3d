@@ -1,0 +1,5 @@
+{
+    name= landscape_detail
+    file= abstract::detail_map.png
+  mipmap= true
+}

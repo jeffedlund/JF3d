@@ -1,0 +1,5 @@
+{
+    name= mouse
+    file= abstract::mouse.png
+  mipmap= true
+}

@@ -1,0 +1,15 @@
+[MATERIAL_EVENTS]
+{
+      name = e_reflection_map
+  position = 0 , 0
+     scale = 1 , 1
+    scroll = 0 , 0
+     angle = 0
+    rotate = 0
+ depthmask = true
+ alphamask = true
+alphablend = false
+ blend_src = GL_ONE
+ blend_dst = GL_ONE
+   uv_mode = UV_MODE_REFLECTION_MAP
+}

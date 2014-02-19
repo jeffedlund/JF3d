@@ -1,0 +1,5 @@
+{
+    name= jeep1
+    file= abstract::jeep1.jpg
+  mipmap= true
+}

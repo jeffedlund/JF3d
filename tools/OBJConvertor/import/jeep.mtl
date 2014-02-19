@@ -1,0 +1,9 @@
+# MTL written from E:\AndyGFX\AGFX_3D_art\jFinal3D\Jeep\jeep.obj
+newmtl MATjeep
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Kd E:\AndyGFX\AGFX_3D_art\jFinal3D\Jeep\jeep1.jpg

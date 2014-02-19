@@ -1,0 +1,5 @@
+{
+    name= env_map
+    file= abstract::ENV_map.tga
+  mipmap= true
+}			

@@ -1,0 +1,6 @@
+[FONT]
+{
+	    name = system_font
+	material = MAT_system_font
+	 kerning = abstract::system_font.ini
+}

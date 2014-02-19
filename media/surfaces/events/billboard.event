@@ -1,0 +1,15 @@
+[MATERIAL_EVENT]
+{
+      name = e_billboard
+  position = 0 , 0
+     scale = 1 , 1
+    scroll = 0, 0
+     angle = 0
+    rotate = 0
+ depthmask = false
+ alphamask = false
+alphablend = true
+ blend_src = GL_SRC_ALPHA
+ blend_dst = GL_ONE
+   uv_mode = UV_MODE_UV_MAP
+}

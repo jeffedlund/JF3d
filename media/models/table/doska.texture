@@ -1,0 +1,5 @@
+{
+    name= doska
+    file= abstract::doska.png
+  mipmap= true
+}

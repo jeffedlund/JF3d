@@ -1,0 +1,127 @@
+[MATERIALS]
+{
+         type = MT_TEXTURE
+         name = MAT_BEAM_1
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+ vertex_color = false
+    texture_0 = Beam_1
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = e_billboard
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = true
+  faceculling = false
+}
+{
+         type = MT_TEXTURE
+         name = MAT_BEAM_2
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+ vertex_color = false
+    texture_0 = plasma
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = e_billboard_rotate
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = true
+  faceculling = false
+}
+{
+         type = MT_TEXTURE
+         name = MAT_BEAM_3
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+ vertex_color = false
+    texture_0 = spark_white
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = e_billboard
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = true
+  faceculling = false
+}
+{
+         type = MT_TEXTURE
+         name = MAT_BEAM_4
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+ vertex_color = false
+    texture_0 = spark_white
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = e_billboard
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = true
+  faceculling = false
+}
+{
+         type = MT_TEXTURE
+         name = MAT_BEAM_DIR
+      diffuse = 1,1,1,1
+      ambient = 0.1,0.1,0.1,1.0
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+ vertex_color = false 
+    texture_0 = Beam_1
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = e_billboard
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = true
+    alphatest = true
+  faceculling = false
+}
+{
+         type = MT_TEXTURE
+         name = MAT_SPRITE_NO_DEPTH
+      diffuse = 1,1,1,1
+      ambient = 1,1,1,1
+     emissive = 0,0,0,1
+     specular = 0,0,0,1
+    shinisess = 0
+ vertex_color = false
+    texture_0 = plasmalight
+    texture_1 = none
+    texture_2 = none
+    texture_3 = none
+      event_0 = e_billboard
+      event_1 = none
+      event_2 = none
+      event_3 = none
+    depthtest = false
+    alphatest = true
+  faceculling = false
+}

@@ -1,0 +1,5 @@
+{
+    name= button_o
+    file= abstract::button_o.png
+  mipmap= false
+}			

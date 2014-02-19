@@ -1,0 +1,5 @@
+{
+    name= platno
+    file= abstract::platno.png
+  mipmap= true
+}

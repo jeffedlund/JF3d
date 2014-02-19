@@ -1,0 +1,5 @@
+{
+    name= mur_NormalMap
+    file= abstract::mur_NormalMap.bmp
+  mipmap= true
+}			

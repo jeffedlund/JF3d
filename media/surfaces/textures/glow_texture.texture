@@ -1,0 +1,5 @@
+{
+    name= glow_texture
+    file= abstract::glow_texture.jpg
+  mipmap= true
+}			

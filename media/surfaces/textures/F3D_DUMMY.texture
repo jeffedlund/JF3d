@@ -1,0 +1,5 @@
+{
+    name= F3D_DUMMY
+    file= abstract::F3D_DUMMY.png
+  mipmap= true
+}
